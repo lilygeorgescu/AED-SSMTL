@@ -96,4 +96,4 @@ Without clear guidance, in our paper, we reported the macro-averaged frame-level
 
 The reported scores are obtained at object level.
 
-* The ground-truth tracklets used in the evaluation are taken from: https://github.com/lilygeorgescu/AED
+\* The ground-truth tracklets used in the evaluation are taken from: https://github.com/lilygeorgescu/AED
