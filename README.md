@@ -72,16 +72,16 @@ Without clear guidance, in our paper, we reported the macro-averaged frame-level
     <td>Avenue</td> 
     <td>91.5%</td>
     <td>91.9%</td>
-    <td>57.0%</td>
-    <td>58.3%</td>
+    <td>57.0%*</td>
+    <td>58.3%*</td>
 </tr>
 
 <tr>
     <td>ShanghaiTech</td> 
     <td>82.4%</td>
     <td>89.3%</td>
-    <td>42.8%</td>
-    <td>83.9%</td>
+    <td>42.8%*</td>
+    <td>83.9%*</td>
 </tr>
 
 <tr>
@@ -95,3 +95,5 @@ Without clear guidance, in our paper, we reported the macro-averaged frame-level
 </table>
 
 The reported scores are obtained at object level.
+
+* The ground-truth tracklets used in the evaluation are taken from: https://github.com/lilygeorgescu/AED
