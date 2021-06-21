@@ -72,8 +72,8 @@ Without clear guidance, in our paper, we reported the macro-averaged frame-level
     <td>Avenue</td> 
     <td>91.5%</td>
     <td>91.9%</td>
-    <td>57.0%*</td>
-    <td>58.3%*</td>
+    <td>57.0%</td>
+    <td>58.3%</td>
 </tr>
 
 <tr>
