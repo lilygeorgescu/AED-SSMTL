@@ -1,7 +1,7 @@
 ## Anomaly Detection in Video via Self-Supervised and Multi-Task Learning
 Mariana-Iuliana Georgescu, Antonio Barbalau, Radu Tudor Ionescu, Fahad Shahbaz Khan, Marius Popescu, Mubarak Shah
 
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2021.
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 12742-12752, 2021.
 
 Official URL: https://openaccess.thecvf.com/content/CVPR2021/html/Georgescu_Anomaly_Detection_in_Video_via_Self-Supervised_and_Multi-Task_Learning_CVPR_2021_paper.html
 
