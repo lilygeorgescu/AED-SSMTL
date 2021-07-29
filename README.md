@@ -32,7 +32,7 @@ Please cite our work if you use any material released in this repository.
  - the form that must be filled in order to obtain our source code.
  - annotated videos obtained using our abnormal event detection method.  
  
-### Short Abstract 
+### Brief Description 
 In this paper, we approach anomalous event detection in video through self-supervised and multi-task learning at the object level.
 We first utilize a pre-trained detector to detect objects. Then, we train a 3D convolutional neural network to produce discriminative 
 anomaly-specific information by jointly learning multiple proxy tasks: three self-supervised and one based on knowledge distillation. 
