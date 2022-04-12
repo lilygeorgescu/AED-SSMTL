@@ -11,6 +11,8 @@ This is the official repository of "Anomaly Detection in Video via Self-Supervis
 
 ### In order to receive our code fill in this [form](./SecurifAI-form-and-license-CVPR-2021.pdf) and send a copy to georgescu_lily@yahoo.com and raducu.ionescu@gmail.com. The form must be sent from your academic email.
 
+### Due to the high number of requests, we collect and process the requests every two weeks.
+
 ### License
 The source code of our model is released under the SecurifAI’s NonCommercial Use & No Sharing International Public License. The details of this license are presented in SecurifAI-license-v1.0.pdf.
 
